@@ -1,4 +1,9 @@
 # 📊 Customer Shopping Behaviour Analysis
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+
 An end-to-end data analytics project that analyzes customer shopping behavior using Python, PostgreSQL, and Power BI. The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, interactive dashboard development, and comprehensive project documentation to generate actionable business insights.
 
 ## 📊 Dashboard Preview
